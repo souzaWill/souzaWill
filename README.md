@@ -12,7 +12,7 @@
 - 💼 &nbsp; Working as a developer at <a href="https://sistema.bernoulli.com.br/spotb">Bernoulli Sistema de Ensino</a>.
 - 🌱 &nbsp; Learning more about design patterns and best pratices of web development.
 - 🔭 &nbsp; I like to practice outdoor activities like hiking 🥾 mountain bike 🚵🏾 and motorcycle expeditions.
-- 🌎 &nbsp; Check my site to more info about me <a href="https://souzawill.github.io/">Click here!!</a>
+- 🌎 &nbsp; Check my site fo more info about me <a href="https://souzawill.github.io/">Click here!!</a>
 
 </p>
 
