@@ -5,7 +5,7 @@
 
 <p align="left"> 
   
-  <h3>&nbsp;About Me</h3>
+  <h3>🤓 &nbsp;About Me</h3>
 
 - 🤔 &nbsp; I have 24 years old living in Belo Horizonte - MG 
 - 🎓 &nbsp; Graduated in Information Systems at <a href="https://www.una.br/">Una</a>.
